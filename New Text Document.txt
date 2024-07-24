@@ -1,4 +1,9 @@
 name="python program"
-for i in range name:
 
-	print(name)
+val=[]
+for i in range name:
+	if i ==p:
+		val.append(i)
+print(val)
+
+	
