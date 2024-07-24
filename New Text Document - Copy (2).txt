@@ -1,0 +1,5 @@
+name="python program"
+for i in range name:
+
+	if i=="p":
+		break

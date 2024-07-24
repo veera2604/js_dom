@@ -1,0 +1,4 @@
+name="python program"
+for i in range name:
+
+	print(i)
